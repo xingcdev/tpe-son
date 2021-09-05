@@ -1,10 +1,10 @@
 # TPE Son
 
-Projet Unity réalisé dans le cadre de TPE (Travail Personnel Encadré) en Première S Scientifique.
+Jeu interactif Unity réalisé dans le cadre de TPE (Travail Personnel Encadré) en Première S Scientifique.
 
 ## Pourquoi ce projet ?
 
-Le programme a pour but de visualiser le son qu'on entend sous forme d'ondes sonores.
+Ce jeu a pour but de visualiser le son qu'on entend sous forme d'ondes sonores.
 
 ## Démonstration
 
