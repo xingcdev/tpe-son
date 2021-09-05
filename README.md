@@ -4,17 +4,18 @@ Projet Unity réalisé dans le cadre de TPE (Travail Personnel Encadré) en Prem
 
 ## Pourquoi ce projet ?
 
-Le projet a pour but de visualiser le son qu'on entend sous forme d'ondes sonores.
+Le programme a pour but de visualiser le son qu'on entend sous forme d'ondes sonores.
 
-## Demo
+## Démonstration
+
+![Demo 1](./demo/demo-1.png)
+![Demo 2](./demo/demo-2.png)
+![Demo 3](./demo/demo-3.png)
 
 ## Usage
 
 1. Télécharger le fichier `tpe-son-0.1.zip` dans l'onglet `Releases` de GitHub
 
-2. Exécuter l'exécutable `Son.exe`.
+2. Décompresser le `.zip` et lancer l'exécutable `Son.exe`.
 
 3. Enjoy !
-
- 
-
